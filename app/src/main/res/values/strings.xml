@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">XY</string>
+
+    <!--SIGN IN-->
+    <string name="company">Company Name</string>
+    <string name="yourname">Your Name</string>
+    <string name="letgo">Let\'s go!</string>
+    <string name="help"><u>Help?</u></string>
+    <string name="we">We\'re here for you.</string>
+
+    <!--MAIN-->
+    <string name="XYWeb">XY WEB SOLUTIONS</string>
+    <string name="companyName">COMPANY NAME</string>
+    <string name="contact">CONTACT ASSISTANT</string>
+    <string name="phoneSupport">PHONE SUPPORT</string>
+    <string name="visitWeb">VISIT WEBSITE</string>
+    <string name="fullName">FULL NAME</string>
+    <string name="phoneNumber">PHONE NUMBER</string>
+    <string name="emailAddress">EMAIL ADDRESS</string>
+    <string name="How">HOW CAN WE HELP?</string>
+    <string name="Submit">SUBMIT TICKET</string>
+</resources>
